@@ -3,6 +3,11 @@ Collection of beacon object file (Cobalt strike)
 
 >files with suffix "ll" correspond to beacon object file using the library load
 
+## Summary
+
+#### [checkVM](src/checkVM/) 
+#### [Get Installed Anti-virus](src/getAV/) 
+
 ## How to compile
 
 >Install mingw64 (this works on kali too, no need windows)
